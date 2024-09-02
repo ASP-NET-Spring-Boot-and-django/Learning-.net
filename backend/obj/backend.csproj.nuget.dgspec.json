@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\G VISHAL\\OneDrive\\Desktop\\temp\\asp.net\\Stock Tracker\\backend\\backend.csproj": {}
+    "C:\\Users\\G VISHAL\\OneDrive\\Desktop\\temp\\asp.net\\Stock Tracker\\Learning-.net\\backend\\backend.csproj": {}
   },
   "projects": {
-    "C:\\Users\\G VISHAL\\OneDrive\\Desktop\\temp\\asp.net\\Stock Tracker\\backend\\backend.csproj": {
+    "C:\\Users\\G VISHAL\\OneDrive\\Desktop\\temp\\asp.net\\Stock Tracker\\Learning-.net\\backend\\backend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\G VISHAL\\OneDrive\\Desktop\\temp\\asp.net\\Stock Tracker\\backend\\backend.csproj",
+        "projectUniqueName": "C:\\Users\\G VISHAL\\OneDrive\\Desktop\\temp\\asp.net\\Stock Tracker\\Learning-.net\\backend\\backend.csproj",
         "projectName": "backend",
-        "projectPath": "C:\\Users\\G VISHAL\\OneDrive\\Desktop\\temp\\asp.net\\Stock Tracker\\backend\\backend.csproj",
+        "projectPath": "C:\\Users\\G VISHAL\\OneDrive\\Desktop\\temp\\asp.net\\Stock Tracker\\Learning-.net\\backend\\backend.csproj",
         "packagesPath": "C:\\Users\\G VISHAL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\G VISHAL\\OneDrive\\Desktop\\temp\\asp.net\\Stock Tracker\\backend\\obj\\",
+        "outputPath": "C:\\Users\\G VISHAL\\OneDrive\\Desktop\\temp\\asp.net\\Stock Tracker\\Learning-.net\\backend\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\G VISHAL\\AppData\\Roaming\\NuGet\\NuGet.Config",
